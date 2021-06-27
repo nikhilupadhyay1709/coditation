@@ -16,8 +16,3 @@ type ProductWithCategory struct {
 	Pid   int
 	Cname string
 }
-type ProductInView struct {
-	Sku             string
-	Name            string
-	CurrentQuantity int
-}
