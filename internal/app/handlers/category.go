@@ -1,8 +1,6 @@
 package handlers
 
 import (
-	//"github.com/configs/database"
-	//"github.com/coditation/internal/app/types"
 	"coditation/database"
 	models "coditation/internal/app/models"
 	_"fmt"
