@@ -1,8 +1,6 @@
 package main
 
 import (
-	//	"github.com/dwahyudi/inventory/configs/database"
-	//	"github.com/dwahyudi/inventory/configs/routes"
 	db "coditation/database"
 	"coditation/routes"
 	"log"
